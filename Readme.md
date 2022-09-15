@@ -26,5 +26,5 @@
 
 ## Acessar na Web
 
-* Basta acessar o <a href="">link</a>
+* Basta acessar o <a href="https://gabriel-grs.github.io/steam-copy/">link</a>
 
