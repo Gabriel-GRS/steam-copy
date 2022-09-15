@@ -24,3 +24,7 @@
 1) Clone o respositório;
 2) Abra o arquivo "index.html" com o navegador.
 
+## Acessar na Web
+
+* Basta acessar o <a href="https://gabriel-grs.github.io/skate-store/">link</a>
+
