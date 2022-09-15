@@ -1,6 +1,6 @@
 ## Site Responsivo Utilizando Flex e Grid 
-> Feito a partir de um curso da Alura
 > Status: Concluded ✅
+* Feito a partir de um curso da Alura.
 
 ## Finalidade:
 - Recentemente me deparei com a necessidade de fazer uma página responsiva, então resolvi fazer um curso da <strong>Alura</strong> para relembrar os conceitos de Grid e Flex unidos a Responsividade.
