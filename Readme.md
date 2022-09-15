@@ -1,6 +1,6 @@
 ## Site Responsivo Utilizando Flex e Grid 
 > Status: Concluded ✅
-* Feito a partir de um curso da Alura.
+* Steam 2.0 feito a partir de um curso da Alura de Flexbox com Grid.
 
 ## Finalidade:
 - Recentemente me deparei com a necessidade de fazer uma página responsiva, então resolvi fazer um curso da <strong>Alura</strong> para relembrar os conceitos de Grid e Flex unidos a Responsividade.
@@ -26,5 +26,5 @@
 
 ## Acessar na Web
 
-* Basta acessar o <a href="https://gabriel-grs.github.io/skate-store/">link</a>
+* Basta acessar o <a href="">link</a>
 
